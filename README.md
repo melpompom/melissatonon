@@ -10,3 +10,4 @@
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/479da148bbe4c2786430c7322b114f2a.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"
   <div>
     
+    ![Snake animation](https://github.com/rafaballerini/melissatonon/blob/output/github-contribution-grid-snake.svg)
